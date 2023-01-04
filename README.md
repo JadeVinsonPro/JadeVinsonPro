@@ -1,5 +1,14 @@
 ### Hi there 👋
-### Bonjour, je m'appelle Jade Vinson.
+### Bonjour, .
+
+
+<h1 align="center">Hi there 👋, je m'appelle Jade VINSON</h1>
+<h3 align="center">Je suis étudiante dans la data</h3>
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JadeVinsonPro&label=Profile%20views&color=0e75b6&style=flat" alt="JadeVinsonPro" /> </p>
+<br />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JadeVinsonPro" alt="JadeVinsonPro" /></a> </p>
+
 <!--
 **JadeVinsonPro/JadeVinsonPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
