@@ -26,6 +26,11 @@
 --->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadevinsonpro&" alt="jadevinsonpro" /></p>
 
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadevinsonpro&label=Profile%20views&color=0e75b6&style=flat" alt="jadevinsonpro" /> </p>
 
 [![An image of @jadevinsonpro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jadevinsonpro)](https://holopin.io/@jadevinsonpro)
