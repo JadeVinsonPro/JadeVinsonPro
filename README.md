@@ -28,7 +28,7 @@
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/JadeVinsonPro/count.svg" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadevinsonpro&label=Profile%20views&color=0e75b6&style=flat" alt="jadevinsonpro" /> </p>
