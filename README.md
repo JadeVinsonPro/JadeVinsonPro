@@ -5,10 +5,8 @@
 <h3 align="center">Je suis étudiante en 3ème année de Bachelor Digital, Business & Data.</h3>
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JadeVinsonPro&show_icons=true&locale=en" alt="JadeVinsonPro" /></p>
-
 <!---
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JadeVinsonPro&show_icons=true&locale=en" alt="JadeVinsonPro" /></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JadeVinsonPro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 -->
