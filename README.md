@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **SQL queries**
 
-- 📫 How to reach me **jade.vinson.pro@gmail.com**
+- 📫 Reach me **jade.vinson.pro@gmail.com**
 
 - 📄 Know about my experiences [https://jadevinson.fr/stages-effectues.html](https://jadevinson.fr/stages-effectues.html)
 
