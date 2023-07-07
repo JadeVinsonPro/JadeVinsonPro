@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jade</h1>
+<h1 align="center">Hi 👋, I'm Jade V.</h1>
 <h3 align="center">A passionate data student from France</h3>
 
 - 🌱 I’m currently learning **Data Analysis**
