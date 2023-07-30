@@ -27,8 +27,8 @@ jobs:
       - name: commit changes  
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: test
-          author_email: testo@gmail.com
+          author_name: JadeVins
+          author_email: jade.vinson23@gmail.com
           force: false
           signoff: false
           message: ':memo: README.md updated by Actions'
