@@ -31,18 +31,18 @@ function generateNewREADME() {
 }
 
 const moodByDay = {
-    1: 'beauté',
-    2: 'amour',
-    3: 'plaisir',
-    4: 'bonheur',
-    5: 'joie',
-    6: 'bonne foi',
-    7: 'amour',
+    1: 'joy',
+    2: 'work',
+    3: 'pleasure',
+    4: 'wickedness',
+    5: 'cruelty',
+    6: 'horror',
+    7: 'love',
 };
 
 function getGabotSigning() {
     const mood = moodByDay[today.getDay()];
-    return `🤖 Ce README.md est mis à jour avec ${mood}️`;
+    return `🤖 This README.md is updated with ${moodByDay}️`;
 }
 
 function getTodayDate() {
