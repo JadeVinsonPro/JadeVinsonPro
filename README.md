@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
+- 📖 Pursuing CI/CD knowledge through self-study
+
 - 👨‍💻 All of my projects are available at [jadevinson.fr](jadevinson.fr)
 
 - 💬 Ask me about **SQL queries**
