@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Jade V.</h1>
 <h3 align="center">A passionate data student  </h3>
 
@@ -37,3 +39,12 @@
 --->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadevinsonpro" alt="jadevinsonpro" /></a> </p>
+
+
+Added the `Sunday 30 July 2023`
+
+Last update on Sun Jul 30 2023
+
+**Only 154 days remaining before 2024 ⏱ !!** 
+
+🤖 Ce README.md est mis à jour avec undefined️
