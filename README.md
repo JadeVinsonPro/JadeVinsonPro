@@ -7,8 +7,6 @@
 
 - 📖 Pursuing CI/CD knowledge through self-study
 
-- 👨‍💻 All of my projects are available at [jadevinson.fr](jadevinson.fr)
-
 - 💬 Ask me about **SQL queries**
 
 - 📫 Reach me **jade.vinson.pro@gmail.com**
