@@ -45,7 +45,7 @@
 
 Added the `Sunday 30 July 2023`
 
-Last update on Thu Dec 28 2023
+Last update on Fri Dec 29 2023
 
 **Only 3 days remaining before 2024 ⏱ !!** 
 
