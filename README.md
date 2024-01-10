@@ -7,6 +7,8 @@
 
 - 📖 Pursuing CI/CD knowledge through self-study
 
+- 👨‍💻 All of my projects are available at [jadevinson.fr](jadevinson.fr)
+
 - 💬 Ask me about **SQL queries**
 
 - 📫 Reach me **jade.vinson.pro@gmail.com**
@@ -45,6 +47,6 @@ Added the `Sunday 30 July 2023`
 
 Last update on Wed Jan 10 2024
 
-**Only 357 days remaining before 2025 ⏱ !!** 
+**Only 356 days remaining before 2025 ⏱ !!** 
 
 🤖 This README.md is updated with [object Object]️
