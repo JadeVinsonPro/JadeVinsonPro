@@ -41,8 +41,8 @@
 
 Added the `Sunday 30 July 2023`
 
-Last update on Sun Aug 30 2026
+Last update on Mon Aug 31 2026
 
-**Only 124 days remaining before 2027 ⏱ !!** 
+**Only 123 days remaining before 2027 ⏱ !!** 
 
 🤖 This README.md is updated with [object Object]️
